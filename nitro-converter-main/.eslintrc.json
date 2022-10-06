@@ -1,0 +1,132 @@
+{
+    "env": {
+        "browser": true,
+        "es2021": true,
+        "node": true
+    },
+    "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/recommended"
+    ],
+    "parser": "@typescript-eslint/parser",
+    "parserOptions": {
+        "ecmaVersion": 12,
+        "sourceType": "module"
+    },
+    "plugins": [
+        "@typescript-eslint"
+    ],
+    "rules": {
+        "indent": [
+            "error",
+            4,
+            {
+                "SwitchCase": 1
+            }
+        ],
+        "no-trailing-spaces": [
+           "error",
+            {
+                "skipBlankLines": false,
+                "ignoreComments": true
+            }
+        ],
+        "linebreak-style": [
+            "off"
+        ],
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ],
+        "brace-style": [
+            "error",
+            "allman"
+        ],
+        "object-curly-spacing": [
+            "error",
+            "always"
+        ],
+        "keyword-spacing": [
+            "error",
+            {
+                "overrides":
+                {
+                    "if":
+                    {
+                        "after": false
+                    },
+                    "for":
+                    {
+                        "after": false
+                    },
+                    "while":
+                    {
+                        "after": false
+                    },
+                    "switch":
+                    {
+                        "after": false
+                    }
+                }
+            }
+        ],
+        "@typescript-eslint/no-explicit-any": [
+            "off"
+        ],
+        "@typescript-eslint/explicit-module-boundary-types": [
+            "off",
+            {
+                "allowedNames": [
+                    "getMessageArray"
+                ]
+            }
+        ],
+        "@typescript-eslint/ban-ts-comment": [
+            "off"
+        ],
+        "@typescript-eslint/no-empty-function": [
+            "error",
+            {
+                "allow": [
+                    "functions",
+                    "arrowFunctions",
+                    "generatorFunctions",
+                    "methods",
+                    "generatorMethods",
+                    "constructors"
+                ]
+            }
+        ],
+        "@typescript-eslint/no-unused-vars": [
+            "off"
+        ],
+        "@typescript-eslint/no-inferrable-types": [
+            "error",
+            {
+                "ignoreParameters": true,
+                "ignoreProperties": true
+            }
+        ],
+        "@typescript-eslint/ban-types": [
+            "error",
+            {
+                "types":
+                {
+                    "String": true,
+                    "Boolean": true,
+                    "Number": true,
+                    "Symbol": true,
+                    "{}": false,
+                    "Object": false,
+                    "object": false,
+                    "Function": false
+                },
+                "extendDefaults": true
+            }
+        ]
+    }
+}

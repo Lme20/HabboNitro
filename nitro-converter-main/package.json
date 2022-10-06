@@ -1,0 +1,53 @@
+{
+  "name": "@nitrots/nitro-converter",
+  "description": "Serverside javascript library for bundling .nitro assets",
+  "version": "1.0.0",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.krews.org/nitro/nitro-converter.git"
+  },
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://git.krews.org/nitro/nitro-converter/issues"
+  },
+  "homepage": "https://git.krews.org/nitro/nitro-converter",
+  "scripts": {
+    "build": "tsc",
+    "start:dev": "ts-node-dev --respawn --transpile-only src/Main.ts",
+    "start": "node ./dist/Main.js",
+    "start:bundle": "yarn start --bundle",
+    "start:extract": "yarn start --extract",
+    "start:convert-swf": "yarn start --convert-swf"
+  },
+  "dependencies": {
+    "bytebuffer": "^5.0.1",
+    "concat-frames": "^1.0.3",
+    "free-tex-packer-core": "^0.3.4",
+    "jpg-stream": "^1.1.2",
+    "lzma-purejs": "^0.9.3",
+    "node-fetch": "^2.6.7",
+    "ora": "5.3.0",
+    "pako": "^2.0.4",
+    "png-stream": "^1.0.5",
+    "reflect-metadata": "^0.1.13",
+    "stream-to-array": "^2.3.0",
+    "tsyringe": "^4.7.0",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@types/bytebuffer": "^5.0.42",
+    "@types/node": "^18.6.1",
+    "@types/node-fetch": "^2.6.2",
+    "@types/pako": "^2.0.0",
+    "@types/stream-to-array": "^2.3.0",
+    "@types/xml2js": "^0.4.11",
+    "@typescript-eslint/eslint-plugin": "^5.31.0",
+    "@typescript-eslint/parser": "^5.31.0",
+    "eslint": "^8.20.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^4.3.5"
+  }
+}

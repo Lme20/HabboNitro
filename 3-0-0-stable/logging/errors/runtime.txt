@@ -1,0 +1,10 @@
+13:23:08.618 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+13:23:08.627 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+13:26:00.442 [main] ERROR com.eu.habbo.habbohotel.pets.PetManager - Missing pet_actions table entry for pet id 0
+13:26:00.443 [main] ERROR com.eu.habbo.habbohotel.pets.PetManager - Missing pet_actions table entry for pet id 0
+13:26:00.444 [main] ERROR com.eu.habbo.habbohotel.pets.PetManager - Missing pet_actions table entry for pet id 0
+13:26:00.444 [main] ERROR com.eu.habbo.habbohotel.pets.PetManager - Missing pet_actions table entry for pet id 0
+13:26:00.445 [main] ERROR com.eu.habbo.habbohotel.pets.PetManager - Missing pet_actions table entry for pet id 0
+13:26:01.114 [main] ERROR com.eu.habbo.util.imager.badges.BadgeImager - BadgeImager output folder: /var/www/testhotel/Cosmic/public/usercontent/badgeparts does not exist!
+13:26:08.126 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
+13:26:08.128 [HabExec-1-2] ERROR com.eu.habbo.core.ConfigurationManager - Config key not found encryption.forced
