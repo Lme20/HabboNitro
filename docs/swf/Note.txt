@@ -1,0 +1,31 @@
+* habbopages will not 100% function on Windows (which this catalogue was created on) due to file naming:
+	* "forums/formatting" does not exist, as you cannot have a folder and file with the same name. You can download the file at Habbo (I will use .com) here: https://www.habbo.com/gamedata/habbopages/forums/formatting
+	
+* Catalogue headers + teasers are all English, I have provided the other languages I could acquire in "catalogue_otherlangs" in c_images if you'd like to swap them out.
+
+* Some images may still be missing but I've cleaned up the best I can. Most of them can be reacquired from Habbo using the same path provided, e.g. "/c_images/catalogue/icon_89.png" but adding "images.habbo.com" instead of your SWF URL. So, "localhost/ms-swf/c_images/catalogue/icon_89.png" > "images.habbo.com/c_images/catalogue/icon_89.png"
+
+* All variables use "${url.prefix}", so if you use a subdomain or something for your SWF hosting, you'll want to find and replace them.
+
+* The camera is set up to write to "\ms-swf\camera\" and the thumbnails to "\ms-swf\camera\thumbnails\", and is default to C Drive in a htdocs folder, in emulator_settings. Change this to what you require. Badgeparts are similar, "\ms-swf\c_images\Badgeparts" and the generated badges to "C:\xampp\htdocs\ms-swf\c_images\Badgeparts\generated". If Badgeparts aren't working properly, try and replace them with somebody elses. Seriously. It worked for me. I don't know how.
+
+* Furni icons go to "\hof_furni\icons\"
+
+* If something doesn't work, use the Network Tab in Developer Tools to find and fix it. If you're unsure how to open Developer Tools, Google it for your browser.
+
+* For updated furni, clothing, etc. use either Higoka's Downloader (https://github.com/higoka/habbo-downloader/releases) or Furniload (https://furniload.com/)
+
+* This is currently updated to India.
+
+Credits:
+From Dippy/TheJava's initial work:
+Wullez = Base to work with.
+Higoka = Habbo Downloader.
+Wesley = shitty emulator.
+John   = motivation.
+habbo  = letting me rip them.
+and me Dippy (TheJava) = going through all this for you to get a decent ass catalogue.
+Further credits:
+Oliver = An old release of his catalogue providing catalog_item names, some help with effects.
+Cam    = Badgeparts.
+Me, Ridge = Finalising this pack.
