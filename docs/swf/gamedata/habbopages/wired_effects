@@ -1,0 +1,51 @@
+Wired Effects
+<span class="padding-top"><br></span><h1>Wired Effects</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><h3>How does each effect work?</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_toggle_state.png" vspace="0" align="center" hspace="10"/><b>WIRED Effect: Toggle Furni State</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect changes the state of the chosen Furni as if the Furni has just been double clicked</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_teleport_to.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Teleport To Furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect teleports the triggering user to a Furni. If you select more than one Furni, the user is randomly teleported to one of them</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_bot_teleport.png" vspace="0" align="left" hspace="5"/><b>WIRED Effect: Teleport Bot to Furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This effect teleports the selected Bot to one of the selected Furni</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_bot_clothes.png" vspace="0" align="left" hspace="7"/><b>WIRED Effect: Bot changes clothes</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This effect changes the clothes of the selected Bot</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_bot_move.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Bot moves to Furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This effect makes the selected Bot move to one of the selected Furni</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_bot_talk.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Bot talks or shouts to all users</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This effect makes the selected Bot talk or shout to all users</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images//album3606/wf_act_bot_talk_to_avatar.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Bot talks or whispers to user</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This effect makes the selected Bot talk or whisper to the triggering user</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_bot_follow_avatar.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Bot follows user</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This effect makes the selected Bot follow the triggering users</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_bot_give_handitem.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Bot gives Handitem</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This effect makes the selected Bot give the selected handitem</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_kick_user.png" vspace="0" align="left" hspace="10"/><b>WIRED EFFECT: Kick User</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This effect kicks a user depending on the triggering criteria</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_show_message.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Show Message</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This effect shows a secret message only to the triggering users</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_move_rotate_1.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Move And Rotate Furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This effect moves and rotates the selected Furni</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_match_to_sshot.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Match Furni to Position & State</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect returns the selected Furni to its set conditions</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_call_stacks.png" vspace="0" align="left" hspace="10"/><b>WIRED EFFECT: Execute Wired Stacks</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Wired allows you to select 5 wired stacks to execute from a single trigger, regardless of existing conditions or triggers</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_reset_timers.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Timer Reset</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect resets triggers that use timers</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_give_score.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Give Points</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect gives the set amount of points to the team that triggers the Effect. You can also choose how many times in a game the amount can be given</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_xtra_random.png" vspace="0" align="left" hspace="10"/><b>WIRED Add-on: Random Effect</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Only one random Effect in this stack is triggered at a time</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_xtra_unseen.png" vspace="0" align="left" hspace="10"/><b>WIRED Add-on: Unseen Effect</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Only one previously unused Effect in this stack is triggered at a time</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_chase.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Move Furni towards nearest user</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect moves the Furnis towards nearest user in the same row or column. If there is a user next to this furni, WIRED Trigger: User stuff collision will activate</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_flee.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Move Furni away from nearest user</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect moves the selected Furnis away from the nearest user in the same row or column. If there is user next to this Furni, WIRED Trigger: User stuff collision will activate</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_give_score_tm.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Give score to a predefined team</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect gives the set amount of points to a team of your choosing. You can also choose how many times in a game the score can be given</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_join_team.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Join team</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect makes the triggering user join a team of your choosing</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_leave_team.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Leave Team</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect makes the triggering user leave their current team</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_act_move_to_dir.png" vspace="0" align="left" hspace="10"/><b>WIRED Effect: Change Furni Direction</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>This Effect changes the Furnis direction. When the move is blocked, Furni will change direction based on setting. If there is a user next to the Furni, WIRED Trigger: User stuff collision will activate</p><span class="padding-bottom"><br></span>

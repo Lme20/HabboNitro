@@ -1,0 +1,112 @@
+navigator tab:
+	navigator/tab/id
+	// official_view, hotel_view, roomads_view, myworld_view etc
+
+home room:
+	navigator/goto/home
+
+open room:
+	navigator/goto/room_id
+
+navigator search:
+	navigator/search/searchTerm
+
+navigator tag:
+	navigator/tag/tagTerm
+
+navigator report:
+	navigator/report/room_id/reasoncode
+
+open friends:
+	friendlist/open
+
+open chat:
+	friendlist/openchat/user_id
+
+open group:
+	group/group_id
+
+inventory tab:
+	inventory/open/id
+	//furni, badges
+
+avatar editor:
+	avatareditor/open
+
+find friends:
+	friendbar/friendfriends
+
+open achievements:
+	questengine/achievements
+
+open guest calendar:
+	questengine/calendar
+
+open quests:
+	questengine/quests
+
+open room thumbnail:
+	roomThumbnailCamera/id
+	//idk
+
+open tour:
+	help/tour
+
+open tour:
+	help/tour
+
+report room:
+	help/report/room/room_id
+
+open memenu:
+	toolbar/memenu
+
+highlight toolbar:
+	toolbar/hightlight/id
+	// catalog, navigator, memenu
+
+open game:
+	games/open/gameName
+
+play game:
+	games/play/gameName
+
+open catalog:
+	catalog/open
+
+open catalog page:
+	catalog/open/pageid
+	// maybe page caption_save
+
+open warehouse:
+	catalog/warehouse
+
+open warehouse page:
+	catalog/warehouse/id
+	// maybe page caption_save
+
+club buy:
+	catalog/club_buy
+
+open nux lobbyoffer:
+	nux/lobbyoffer
+
+open nux lobbyoffer show:
+	nux/lobbyoffer/show
+
+open friendbar user:
+	friendbar/open/id
+	// maybe username
+
+open hccenter:
+	habboUI/open/hccenter
+
+open habbopages:
+	habbopages/id
+
+open calendar:
+	openView/calendar
+
+open habblet:
+	habblet/open/id
+	//credits? idk

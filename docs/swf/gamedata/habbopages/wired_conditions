@@ -1,0 +1,41 @@
+Wired Conditions
+<span class="padding-top"><br></span><h1>Wired Conditions</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><h3>How does each condition work?</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_actor_in_group.png" vspace="0" align="center" hspace="10"/><b>WIRED CONDITION: Group Member</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Condition passes when this is a group room and the avatar is a member of that group</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_has_furni_on.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: Has Furni On</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if one of the chosen Furni has another Furni on it. The Furni on top can then be acted upon with Effects</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_has_handitem.png" vspace="0" align="left" hspace="5"/><b>WIRED Condition: User has handitem</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the user is holding the selected handitem</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_not_furni_on.png" vspace="0" align="left" hspace="7"/><b>WIRED Negative Condition: Has NO Furni On</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if one of the chosen Furni has NO other Furni on it</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_not_hv_avtrs.png" vspace="0" align="left" hspace="10"/><b>WIRED Negative Condition: Furnis have NO avatars</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the picked furnis have NO avatars on them</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_not_in_group.png" vspace="0" align="left" hspace="10"/><b>WIRED Negative Condition: NOT Group Member</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Condition passes when this is a group room and the avatar is NOT a member of that group</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images//album3606/wf_cnd_not_in_team.png" vspace="0" align="left" hspace="10"/><b>WIRED Negative Condition: NOT Team Member</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Condition passes when avatar is NOT a member of the pre-set team</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_not_match_snap.png" vspace="0" align="left" hspace="10"/><b>WIRED Negative Condition: Furni states DOESN'T match</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the states of the picked furnis DOESN'T match</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_not_stuff_is.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: Furni Type DOESN'T Match</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the Furni defined by Trigger is NOT one of the chosen Furnis or is NOT of the same type</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_not_trggrer_on.png" vspace="0" align="left" hspace="10"/><b>WIRED Negative Condition: Triggerer is NOT on furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the triggerer is NOT on one of the picked furnis</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_not_user_count.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: User DOESN'T count in Room</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the user count in room is NOT within the defined limits</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_actor_in_team.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: User Is In Team x</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the triggerering user belongs to the selected team</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_furnis_hv_avtrs.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: Furnis have avatars</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if all the picked furnis have avatars on them</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_match_snapshot.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: Furni States And Positions Match</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the states and positions of the selected Furni match</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_stuff_is.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: Furni Type Matches</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the Furni defined by Trigger is one of the chosen Furnis or is of the same type</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_time_less_than.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: Less Than x Secs Elapsed Since Timer Reset</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if less than x seconds have elapsed since timer reset</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_time_more_than.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: More Than x Secs Elapsed Since Timer Reset</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if more than x seconds have elapsed since timer reset</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_trggrer_on_frn_1.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: Triggering User Is On Furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the triggering user is on one of the selected Furni</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_cnd_user_count_in.png" vspace="0" align="left" hspace="10"/><b>WIRED Condition: User count in Room</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggering is allowed if the user count in room is within the defined limits</p><span class="padding-bottom"><br></span>

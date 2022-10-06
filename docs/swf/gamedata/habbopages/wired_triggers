@@ -1,0 +1,31 @@
+Wired Triggers
+<span class="padding-top"><br></span><h1>Wired Triggers</h1><span class="padding-top"><br></span>
+<span class="padding-top"><br></span><h3>How does each trigger work?</h3><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_walks_on_furni.png" vspace="0" align="center" hspace="10"/><b>WIRED Trigger: User Walks On Furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered when an avatar walks on a furni</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_walks_off_furni.png" vspace="0" align="left" hspace="10"/><b>WIRED Trigger: User Walks Off Furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered when an avatar walks off a furni</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_bot_reached_avtr.png" vspace="0" align="left" hspace="5"/><b>WIRED Trigger: Bot reaches user</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered when the selected Bot reaches an user</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_bot_reached_stf.png" vspace="0" align="left" hspace="7"/><b>WIRED Trigger: Bot reaches Furni</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered when the selected Bot reaches one of the selected Furni</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_says_something.png" vspace="0" align="left" hspace="10"/><b>WIRED Trigger: User Says Keyword</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered when a user says a certain word or phrase</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_state_changed.png" vspace="0" align="left" hspace="10"/><b>WIRED Trigger: Furni State Is Changed</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered when the state of a Furni is changed by double clicking it</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images//album3606/wf_trg_enter_room.png" vspace="0" align="left" hspace="10"/><b>WIRED Trigger: User Enters Room</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered when a user enters the room</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_periodically.png" vspace="0" align="left" hspace="10"/><b>WIRED Trigger: Repeat Effect</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered every x seconds</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_at_given_time.png" vspace="0" align="left" hspace="10"/><b>WIRED Trigger: At Set Time</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered at a given time after the timer is reset</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_score_achieved.png" vspace="0" align="left" hspace="10"/><b>WIRED TRIGGER: Score achieved</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggered when set score is achieved</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_game_ends.png" vspace="0" align="left" hspace="10"/><b>WIRED Trigger: Game Ends</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered when a game ends in the room</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_game_starts.png" vspace="0" align="left" hspace="10"/><b>WIRED Trigger: Game Starts</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Effects are triggered when a game starts in the room</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_collision.png" vspace="0" align="left" hspace="10"/><b>WIRED TRIGGER: Collision</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Triggered when moving a furni (using chase or flee wired) collides with an avatar - the triggering user is the avatar that collides</p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p><img src="http://images.habbo.com/c_images/album3606/wf_trg_period_long.png" vspace="0" align="left" hspace="10"/><b>WIRED TRIGGER: Periodically Long</b></p><span class="padding-bottom"><br></span>
+<span class="padding-top"><br></span><p>Longer games! Effects are triggered each time a given time has elapsed. Like Trigger Periodically but longer!</p><span class="padding-bottom"><br></span>
